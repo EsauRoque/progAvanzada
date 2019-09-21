@@ -1,4 +1,4 @@
-# programación Avanzada
+# Programación Avanzada
 ## Introducción
 Python es un lenguaje de programación creado por Guido Van Rossum a principio de los años 90's.
 El lenguaje favorece una sintaxis muy limpia ya que favorecen a un código legible. Se trata de un lenguaje interpretado o es script, y con pago dinámico frecuentemente equipado, multiplataforma y orientado a objetos o interpretado.

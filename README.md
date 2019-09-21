@@ -30,7 +30,7 @@ por lo que si no utilizamos librerias específicas de cada plataforma nuestro pr
 
 La orientación de objetos es un paradigma de programación en el que los conceptos del mundo real relevantes para nuestro problema se trasladan a clases y objetos en nuestro programa. La ejecución del programa consiste en una serie de interacciones entre objetos.
 
-####### ¿Por qué Python?
+###### ¿Por qué Python?
 
 El software es el núcleo de todas las herramientas que utilizamos hoy en día casi todos usamos redes sociales para comunicarnos, muchas personas estan conectadas a internet todo el dia y la mscropía de los trabajos siempre se interactua con uan computadora para tener el trabajo hecho como resultado el porcentaje de personas que sepan programar ha aumentado. Python es un lenguaje que con su sintaxis simple, clara, y sencilla puede automatizar simples tareas como:
 Mover y renombrar miles de archivos y clasificarlos en folders, llenar de forma automática formularios en internet, descargar archivos o extraer información de páginas de internet de forma evasiva, hacer que su computadora le envie a su teléfono información de quién la esta usando, checar e-mail y contestarlo de forma automática. 

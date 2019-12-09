@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  9 00:59:49 2019
-
-@author: stitch
-"""
-
 linea=input("Ingresa 8 bits:")
 while linea !="":
     if linea.count("0")+linea.count("1") !=8 or len(linea)!=8:

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  8 23:17:51 2019
-
-@author: stitch
-"""
 penickel=5
 nickel=0.05
 total=0.00

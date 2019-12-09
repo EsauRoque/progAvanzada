@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 22 14:50:25 2019
-
-@author: stitch
-"""
 i=1
 j=0
 suma=0.0

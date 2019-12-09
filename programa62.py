@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 16 15:00:18 2019
-
-@author: stitch
-"""
-
 #ejersicio 62. Un suoermercado esta ofreciendo el 60% de descuento en una 
 #variedad de productos descontinuados. El supermercado quiere ayudar a sus clientes
 # a determinar el precio reducido de su mercancia con una tabla impresa en los aparadores

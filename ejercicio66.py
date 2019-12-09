@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  8 23:56:25 2019
-
-@author: stitch
-"""
 A=4.0
 A_MINUS=3.7
 B_PLUS=3.3

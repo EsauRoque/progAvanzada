@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  8 15:46:30 2019
-
-@author: stitch
-"""
-
 n=0
 num1=float(input('Ingrese el primer numero: '))
 if num1!=0:

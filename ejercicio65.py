@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  8 23:34:09 2019
-
-@author: stitch
-"""
-
 from math import sqrt
 perimetro=0
 

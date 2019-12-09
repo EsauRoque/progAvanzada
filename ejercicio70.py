@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 22 15:17:31 2019
-
-@author: stitch
-"""
-
 #ejersicio70 
 #Uno de los primero ejemplos de encriptacion fue usado por julio cesar. julio cesar necesitaba el enviar 
 #instrucciones escritas a sus generales, pero el no queria que sus enemigos  cocnocieran de sus planes 

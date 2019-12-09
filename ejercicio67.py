@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  9 00:35:51 2019
-
-@author: stitch
-"""
-
 precio_bebe=0.00
 precio_niño=14.00
 precio_adulto=23.00
